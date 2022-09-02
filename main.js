@@ -148,8 +148,8 @@ global.reloadHandler = function (restatConn) {
     conn.ev.off('call', conn.onCall)
   }
 
-  conn.welcome = 'Hai, @user!\nSelamat datang Wahai Beban🕵️ @subject\n\n@desc'
-  conn.bye = 'Selamat tinggal wahai beban 🕵️@user!'
+  conn.welcome = 'Hai, @user!\nSelamat Datang di @subject\n\n@desc'
+  conn.bye = 'Selamat Tinggal @user!'
   conn.spromote = '@user sekarang admin!'
   conn.sdemote = '@user sekarang bukan admin!'
   conn.handler = handler.handler.bind(conn)
