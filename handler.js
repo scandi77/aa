@@ -649,7 +649,7 @@ global.dfail = (type, m, conn) => {
           
           Owner & Police bot berhak banned permanen / sementara dan leave group jika ada yang melanggar! 
           Hormat kami Staff Undefined Bot
-          `, '©Undefined Bot', 'Terima', '.terima', 'Tidak', '.tidak', m)
+          `, '© Created By Edo Romadon', 'Terima', '.terima', 'Tidak', '.tidak', m)
   	
 }
 
